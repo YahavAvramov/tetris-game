@@ -14,4 +14,3 @@ C:\Users\yahav\OneDrive\שולחן העבודה\העבודות שלי לתצוג
 C:\Users\yahav\OneDrive\שולחן העבודה\העבודות שלי לתצוגה\TetrisGame\TetrisGame\TetrisGame\obj\Debug\TetrisGame.csproj.CoreCompileInputs.cache
 C:\Users\yahav\OneDrive\שולחן העבודה\העבודות שלי לתצוגה\TetrisGame\TetrisGame\TetrisGame\obj\Debug\TetrisGame.exe
 C:\Users\yahav\OneDrive\שולחן העבודה\העבודות שלי לתצוגה\TetrisGame\TetrisGame\TetrisGame\obj\Debug\TetrisGame.pdb
-C:\Users\yahav\OneDrive\שולחן העבודה\העבודות שלי לתצוגה\TetrisGame\TetrisGame\TetrisGame\obj\Debug\TetrisGame_Content.g.cs

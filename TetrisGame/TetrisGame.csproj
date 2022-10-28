@@ -111,10 +111,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Assets\Icon.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Assets\Background.png" />
     <Resource Include="Assets\Block-Empty.png" />
     <Resource Include="Assets\Block-I.png" />
     <Resource Include="Assets\Block-J.png" />
@@ -133,7 +129,7 @@
     <Resource Include="Assets\TileYellow.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\BackGroundImg.png" />
+    <Resource Include="Assets\Background.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
