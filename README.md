@@ -11,6 +11,9 @@ Use the down arrow key to increase the shape's descent rate
 #### `the Purpose of the game`
 Score as many points as possible by complete full rows
 
+#### `Demo video`
+Youtube - https://www.youtube.com/watch?v=SGDNx7pyIQk
+
 #### have fun!
 
 
